@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : See your progress
     description                           : Through a lovely graph view you can see how you did in the past, so you can stay motivated!
-    fontawesome_icon_name                 : simple-chart
+    fontawesome_icon_name                 : chart-mixed
 
   - title                                 : Complete afterwards or in advance
     description                           : You can complete habits for days in the past or the future. Who doesn´t like having a choice?
@@ -53,11 +53,11 @@ features                                  :
 
   - title                                 : Native
     description                           : If you know iOS, you will know how to use the app. It just feels right. And it looks good.
-    fontawesome_icon_name                 : blank-house
+    fontawesome_icon_name                 : home
   
   - title                                 : More coming soon
     description                           : I´m already planning some things. Currently, my eyes are on shortcuts support and an WatchOS app.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : info
 
 
 
