@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : chart-simple
 
   - title                                 : Complete afterwards or in advance
-    description                           : You can complete habits for days in the past or the future. I know the latter makes no sense most of the time, but who doesn´t like having a choice?
+    description                           : You can complete habits for days in the past or the future. Who doesn´t like having a choice?
     fontawesome_icon_name                 : calendar
 
   - title                                 : Notifications
