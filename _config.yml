@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : See your progress
     description                           : Through a lovely graph view you can see how you did in the past, so you can stay motivated!
-    fontawesome_icon_name                 : bar-chart
+    fontawesome_icon_name                 : chart-bar
 
   - title                                 : Complete afterwards or in advance
     description                           : You can complete habits for days in the past or the future. Who doesn´t like having a choice?
