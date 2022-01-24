@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Build healthy habits
     description                           : The progress-circle will make you want to complete your habits every day, so you can build long lasting habits.
-    fontawesome_icon_name                 : circle-check
+    fontawesome_icon_name                 : check-circle
     
   - title                                 : See your progress
     description                           : Through a lovely graph view you can see how you did in the past, so you can stay motivated!
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : simple-chart
 
   - title                                 : Complete afterwards or in advance
     description                           : You can complete habits for days in the past or the future. Who doesn´t like having a choice?
@@ -53,11 +53,11 @@ features                                  :
 
   - title                                 : Native
     description                           : If you know iOS, you will know how to use the app. It just feels right. And it looks good.
-    fontawesome_icon_name                 : house-blank
+    fontawesome_icon_name                 : blank-house
   
   - title                                 : More coming soon
     description                           : I´m already planning some things. Currently, my eyes are on shortcuts support and an WatchOS app.
-    fontawesome_icon_name                 : circle-info
+    fontawesome_icon_name                 : info-circle
 
 
 
