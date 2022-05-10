@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: true
 ---
 
-#Privacy Policy
+# Privacy Policy
 
 Bennett Quaritsch built the Persistent app as a Freemium app. This SERVICE is provided by Bennett Quaritsch at no cost and is intended for use as is.
 
